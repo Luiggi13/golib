@@ -1,4 +1,4 @@
-package luiggi
+package golib
 
 import "log"
 
